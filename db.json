@@ -1,0 +1,23 @@
+{
+    
+    "formulario": [
+      {
+        "id": 1,
+        "nombre": "Silvia",
+        "estadoCivil": "soltero",
+        "Fnacimiento": "12/03/90"
+      },
+      {
+        "id": 2,
+        "nombre": "yohaldry",
+        "estadoCivil": "casado",
+        "Fnacimiento": "28/05/95"
+      },
+      {
+        "id": 3,
+        "nombre": "emily",
+        "estadoCivil": "casado",
+        "Fnacimiento": "13/01/96"
+      }
+    ]
+    }
